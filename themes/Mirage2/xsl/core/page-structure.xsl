@@ -463,7 +463,7 @@
 	    	<a href="{$context-path}/" class="navbar-brand">
 			<img src="{$theme-path}/images/logo_forme.png" style="height:108px; padding-right:30px;"/>
 		</a>
-		<a class="navbar-brand ucad-top-title" href="{$context-path}/" spellcheck="false">Dépôt Institutionnel</a>
+		<a class="navbar-brand ucad-top-title" href="{$context-path}/" spellcheck="false">Dépôt institutionnel</a>
 
 
 
